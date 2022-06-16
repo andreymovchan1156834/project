@@ -1,0 +1,76 @@
+h1 {
+    color: rgb(0, 255, 221) ;
+    font-size: 48px;
+}
+a  {
+    color: rgb(0, 55, 255);
+    font-size: 20px;
+    padding-left: 42px;
+}
+header {
+    width: 100%;
+    background: rgb(97, 188, 222);
+    display: flex;
+    
+}
+body  {
+    width: 100%;
+    background: rgb(0, 187, 255);
+}
+.header_logo {
+    font-family: Charis SIL;
+    font-style: normal;
+    font-weight: normal;
+    cursor: pointer;
+    margin-top: 35px;
+    margin-left: 402px;
+
+}
+.header_menu {
+    margin-top: 79px;
+    margin-left: 300px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
